@@ -1,4 +1,4 @@
-# ** Digital Image Processing Course **
+# Digital Image Processing Course
 
 Project with all learnings about Digital Image Processing course as a Master´s Student at UFC.
 
