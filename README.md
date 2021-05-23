@@ -1,6 +1,6 @@
 # Digital Image Processing Course
 
-Project with all learnings about Digital Image Processing course as a Master´s Student at UFC.
+Project with all learnings in the Digital Image Processing course as a Master´s Student at UFC.
 
 ## Folders' Description
 
